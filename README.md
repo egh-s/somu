@@ -5,3 +5,5 @@ Unzip preferable in C:\ for best visual and start the tool by double clicking th
 SOMU uses Sfockfish 15 as analysis engine, Stockfish is GPL and can be found at - https://stockfishchess.org/
 
 TO-DO - Make the "Blunder Check" function available for general use.
+
+Discussion starts at - https://prodeo.actieforum.com/t1285-eas-for-stefan#14169
